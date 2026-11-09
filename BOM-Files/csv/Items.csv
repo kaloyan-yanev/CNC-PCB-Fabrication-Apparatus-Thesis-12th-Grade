@@ -1,0 +1,3 @@
+Order num,Supplier,Order status,Component,Subsystem,Supplier / mfr part no.,Qty,Unit price (with VAT),Line total (€),Link to supplier website,Received?,Notes
+1,DigiKey BG,Planned,LT-40W-AA Laser Head,Laser head,LT-40W-AA,1,84.16,84.16,https://www.digikey.bg/en/products/detail/laser-tree/LT-40W-AA/29336901,,
+1,DigiKey BG,Planned,test component - test commit,,,,,,,,
