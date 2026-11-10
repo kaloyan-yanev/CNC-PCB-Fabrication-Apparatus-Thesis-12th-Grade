@@ -1,0 +1,14 @@
+Suppliers,Status,Subsystem,,How to use
+DigiKey BG,Planned,"Motion (screws, nuts, rails)",,Add new suppliers / subsystems in the empty cells below each list.
+,Ordered,Motors,,They then appear in the dropdowns and in the Summary sheet automatically.
+,Shipped,Frame & structure,,Keep the Status list as is — the Summary and colours depend on those exact words.
+,Received,Laser head,,
+,Cancelled,Milling / drill head,,
+,,Controller (CM + carrier),,
+,,Stepper drivers,,
+,,Power supply,,
+,,Sensors & feedback,,
+,,Wiring & connectors,,
+,,Fasteners & hardware,,
+,,"Consumables (paint, FeCl3, solvent)",,
+,,Tools,,
